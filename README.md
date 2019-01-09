@@ -1,3 +1,8 @@
+### germ's notes
+This version is a modified version of https://github.com/sevamoo/SOMPY 
+hhl added some modification in the cluster method to perform bootstraping k-means clustering 
+
+
 SOMPY
 -----
 A Python Library for Self Organizing Map (SOM)
